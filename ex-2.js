@@ -13,8 +13,8 @@ lastMonthPaidMoreThan4000 = true;
 isWeekday = true;
 hasNotBoughtProductFromITCategory = true;
 hasNotAttendedDiscountEvent = false;
-isPlatinum = false;
 
+isPlatinum = false;
 hasPromotion =
   (lastMonthPaidMoreThan4000 &&
     isWeekday &&
